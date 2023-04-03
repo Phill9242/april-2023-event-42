@@ -1,0 +1,8 @@
+subject=Desafio 42
+body=E-mail enviado do python email
+attachment_path=attachment.txt
+smtp_server=smtp.zoho.com
+smtp_port= 465
+sender_email=phillcarvalho@zohomail.com
+sender_password=*****
+recipient_email=phillcarvalho@zohomail.com
